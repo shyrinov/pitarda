@@ -1,0 +1,20 @@
+{
+  "name": "pitarda1", 
+  "version": "1.0.0", 
+  "description": "by Veselka", 
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shyrinov/pitarda.git" 
+  },
+  "keywords": [ // ключевые слова (необязательно)
+    "", 
+    "",
+    ""
+  ],
+  "author": "", // автор (необязательно)
+  "license": "MIT"
+}
