@@ -1,20 +1,23 @@
 {
-  "name": "pitarda1", 
-  "version": "1.0.0", 
-  "description": "by Veselka", 
+  "name": "pitarda",
+  "version": "1.0.1",
+  "description": "by Veselka",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shyrinov/pitarda.git" 
+    "url": "https://github.com/shyrinov/pitarda.git"
   },
-  "keywords": [ // ключевые слова (необязательно)
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", // автор (необязательно)
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "granata1": "^1.0.0"
+  }
 }
